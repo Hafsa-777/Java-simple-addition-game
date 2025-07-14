@@ -24,6 +24,11 @@ To run this project, you need to have:
 - [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) installed (version 8 or above)
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code with Java extensions) or a command line terminal
 
+### License
+This project is released under the MIT License, feel free to use or modify it for educational purposes.
+
+
+
 ### Running the App
 
 1. Clone or download this repository
@@ -32,3 +37,6 @@ To run this project, you need to have:
 
 ```bash
 javac RandomApp.java
+
+
+
